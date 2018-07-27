@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "creepy.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "default",
+        "project_name": "creepypasta",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-j3jnike0x"
+    }
+}
